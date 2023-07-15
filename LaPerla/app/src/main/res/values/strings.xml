@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">La Perla</string>
+
+    <!--SplashScreen-->
+    <string name="ivDescriptionSS">Logo de fondo</string>
+
+    <!--Login-->
+    <string name="tvLoginTitle">Iniciar Sesión</string>
+    <string name="tvLoginEmail">Correo :</string>
+    <string name="etLoginCorreo">Ingrese su correo</string>
+    <string name="tvLoginPass">Contraseña :</string>
+    <string name="etLoginClave">Ingrese su contraseña</string>
+    <string name="btnLoginIngresar">Ingresar</string>
+    <string name="ivDescriptionL">Imagen de fondo</string>
+    <string name="tvAskL">¿Aún no te registras? </string>
+    <string name="tvRedirectL">Crear una cuenta</string>
+
+
+    <!--Register-->
+    <string name="tvRegisterTitle">Registrarse</string>
+    <string name="fTvRegisterName">Nombre :</string>
+    <string name="fEtRegisterNombre">Ingrese su nombre</string>
+    <string name="fTvRegisterLastName">Apellidos :</string>
+    <string name="fEtRegisterApellido">Ingrese sus apellidos</string>
+    <string name="fTvRegisterPhone">Telefono :</string>
+    <string name="fEtRegisterTelefono">Ingrese su número de telefono</string>
+    <string name="fTvRegisterAddress">Dirección :</string>
+    <string name="fEtRegisterDireccion">Ingrese su dirección</string>
+    <string name="sTvRegisterEmail">Correo :</string>
+    <string name="sEtRegisterCorreo">Ingrese su correo</string>
+    <string name="sTvRegisterPass">Contraseña :</string>
+    <string name="sEtRegisterClave">Ingrese su contraseña</string>
+    <string name="sTvRegisterRepeatPass">Repetir Contraseña :</string>
+    <string name="sEtRegisterRepetirClave">Repita su contraseña</string>
+    <string name="fBtnSiguiente">Siguiente</string>
+    <string name="sBtnAnterior">Anterior</string>
+    <string name="sBtnRegistrar">Registrar</string>
+
+    <!--Fragment Home-->
+    <string name="welcome_message">Bienvenido %1$s</string>
+
+    <!--Fragment Settings-->
+    <string name="adminFsTitulo">Ajustes</string>
+    <string name="adminFsNomApe">%1$s %2$s</string>
+    <string name="adminFsCorreo">Correo</string>
+    <string name="adminFsBtnEditarPerfil">Editar</string>
+    <string name="adminFsBtnCerrarSesion">Cerrar Sesión</string>
+
+    <!--Fragment Edit Profile-->
+    <string name="adminFepTitulo">Datos Personales</string>
+    <string name="adminFepNombre">Nombre</string>
+    <string name="adminFepApellido">Apellidos</string>
+    <string name="adminFepTelefono">Telefono</string>
+    <string name="adminFepDireccion">Direccion</string>
+    <string name="adminFepCorreo">Correo</string>
+    <string name="adminFepClave">Contraseña</string>
+    <string name="adminFepBtnAcualizar">Actualizar</string>
+    <string name="adminFepComletar">Llene el campo</string>
+
+    <!--Option Admin-->
+    <string name="opAdminHome">Inicio</string>
+    <string name="opAdminUsuarios">Usuarios</string>
+    <string name="opAdminProductos">Comidas</string>
+    <string name="opAdminSettings">Ajustes</string>
+
+    <!--Carrito-->
+    <string name="subtotal_label">S/ %.2f</string>
+    <string name="descuento_label">S/ %.2f</string>
+    <string name="total_label">S/ %.2f</string>
+    <string name="subtotal_default">S/ 0.00</string>
+    <string name="descuento_default">S/ 0.00</string>
+    <string name="total_default">S/ 0.00</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
